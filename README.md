@@ -1,4 +1,4 @@
-## Hello World! I'm Wallace Araujo 👋
+## Hello World! I'm Wallace Araujo  👨‍💻
 
 ##
 
