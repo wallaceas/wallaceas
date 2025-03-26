@@ -9,6 +9,8 @@
   <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wallace-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wallace-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  ![KIROKAZE](https://github.com/user-attachments/assets/5f423ee7-103d-43e3-907c-2a3ad5970ca2)
 </div>
 
 ##
@@ -18,7 +20,6 @@
  	<a href="https://www.twitch.tv/waallaceas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/735993268797702275" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/wallace-araújo-a2b5a01b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![KIROKAZE](https://github.com/user-attachments/assets/5f423ee7-103d-43e3-907c-2a3ad5970ca2)
 
 </div>
 
