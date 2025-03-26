@@ -9,7 +9,6 @@
   <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wallace-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wallace-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img src="![KIROKAZE](https://github.com/user-attachments/assets/5f423ee7-103d-43e3-907c-2a3ad5970ca2)" width="40"/>
   
 </div>
 
