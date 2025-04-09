@@ -1,6 +1,6 @@
-## Hello World! 👨‍💻 I'm Wallace Araujo  
+## Hello World! 
 
-### 👾 Talk to me 
+### 👾 Social Media
 <div> 
   <a href="https://instagram.com/waallaceas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/waallaceas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -11,7 +11,7 @@
 
 ##
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -79,7 +79,7 @@
 
 ##
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
   
 <img 
       align="left" 
@@ -88,7 +88,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wallaceas/wallaceas/output/github-contribution-grid-snake-dark.svg">
