@@ -75,6 +75,13 @@
   width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg"
 />
+<img
+  align="center" 
+  alt="Wallace-Oracle" 
+  height="30"
+  width="40" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+/>
 
 ##
 
