@@ -70,10 +70,10 @@
 />
 <img
   align="center" 
-  alt="Wallace-Toad" 
+  alt="Wallace-Delphi" 
   height="30"
   width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/toad/toad-original.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg"
 />
 
 ##
