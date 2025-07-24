@@ -55,14 +55,6 @@
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -75,6 +67,13 @@
   height="30"
   width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+/>
+<img
+  align="center" 
+  alt="Wallace-Toad" 
+  height="30"
+  width="40" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/toad/toad-original.svg"
 />
 
 ##
